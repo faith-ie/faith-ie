@@ -9,7 +9,7 @@ BSD 2 Clause : https://pastebin.com/TQYP30xT
 
 GNU License : https://pastebin.com/3m6uipWV
 
-Unilicense : https://pastebin.com/c4s3Vmp5
+Unlicense : https://pastebin.com/c4s3Vmp5
 
 
 # About me
