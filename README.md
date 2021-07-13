@@ -16,5 +16,5 @@ Unlicense : https://pastebin.com/c4s3Vmp5
 Hi I'm just a random person on the internet that likes to program. I first started in javascript, and then moved on to TypeScript, and then finally to C# which I am enjoying a lot. 
 
 # My Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faith1sGay&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faith-ie&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
